@@ -1,0 +1,19 @@
+body {
+  padding: 2rem;
+  font-family: DNB;
+  font-size: 1.125rem;/* 18px */
+  line-height: 1.75rem;/* 28px */
+}
+
+.use-light {
+  font-weight: 100;
+}
+.use-regular {
+  font-weight: normal;
+}
+.use-medium {
+  font-weight: 500;
+}
+.use-bold {
+  font-weight: 600;
+}

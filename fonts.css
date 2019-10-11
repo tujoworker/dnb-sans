@@ -1,0 +1,43 @@
+/* Light */
+@font-face {
+  font-family: DNB;
+  src: url('./fonts/DNB-Light.woff2') format('woff2'),
+    url('./fonts/DNB-Light.woff') format('woff'),
+    url('./fonts/DNB-Light.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: fallback;
+}
+
+/* Std and Regular */
+@font-face {
+  font-family: DNB;
+  src: url('./fonts/DNB-Regular.woff2') format('woff2'),
+    url('./fonts/DNB-Regular.woff') format('woff'),
+    url('./fonts/DNB-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+
+/* Regular */
+@font-face {
+  font-family: DNB;
+  src: url('./fonts/DNB-Medium.woff2') format('woff2'),
+    url('./fonts/DNB-Medium.woff') format('woff'),
+    url('./fonts/DNB-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+/* Medium */
+@font-face {
+  font-family: DNB;
+  src: url('./fonts/DNB-Bold.woff2') format('woff2'),
+    url('./fonts/DNB-Bold.woff') format('woff'),
+    url('./fonts/DNB-Bold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
