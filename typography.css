@@ -24,6 +24,7 @@ body {
 .antialiased,
 .subpixel-rendering {
   padding: 2rem;
+  min-width: 16rem;
 }
 
 .dark {
