@@ -27,10 +27,11 @@ body {
   min-width: 16rem;
 }
 
-.dark {
+.dark .antialiased ,
+.dark .subpixel-rendering {
   color: white;
-  /* background-color: #00343E; */
-  background-color: #333;
+  background-color: #00343E;
+  /* background-color: #333; */
 }
 
 .use-light {
